@@ -4,8 +4,8 @@ const about = () => {
   return (
     <div>
       <Head>
-        <title>ABOUT</title>
-        <meta name='keywords' content='web development, programming' />
+        <title>About</title>
+        <h1>This is about stuff</h1>
       </Head>
     </div>
   );
